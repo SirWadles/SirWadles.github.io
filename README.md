@@ -1,2 +1,1 @@
-Personal Website I've Made<br />
-sirwadles.github.io
+(Personal Website I've Made)[sirwadles.github.io]
