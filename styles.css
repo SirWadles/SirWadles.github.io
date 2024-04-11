@@ -30,7 +30,7 @@ body{
     position: fixed;
     top: 0;
     left: 0; 
-    background: linear-gradient(45deg,#5f7bc4, #bebcbe);
+    background: linear-gradient(45deg,#0000FF, #FFC0CB);
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
