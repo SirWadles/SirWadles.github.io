@@ -1,18 +1,16 @@
 body{
     width: 100%;
     height: 1250px;
-    background-image: url(images/background.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
-body2{
-    width: 100%;
-    height: 1250px;
+#firstPage{
+    background-image: url(images/background.jpg);
+}
+
+#secondPage{
     background-image: url(images/background2.jpg);
-    background-position: center;
-    background-size: cover;
-    background-repeat: no-repeat;
 }
 *{
     margin: 0;
